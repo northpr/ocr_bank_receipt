@@ -1,0 +1,8 @@
+google-cloud-vision==3.4.1
+matplotlib
+numpy
+nbdev < 2
+pandas
+plotly
+scikit-learn
+seaborn
